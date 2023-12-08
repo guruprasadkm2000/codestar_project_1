@@ -77,6 +77,7 @@ https://docs.aws.amazon.com/lambda/latest/dg/deploying-lambda-apps.html
 
 Learn more about AWS CodeStar by reading the user guide, and post questions and
 comments about AWS CodeStar on our forum.
+go
 
 User Guide: https://docs.aws.amazon.com/codestar/latest/userguide/welcome.html
 
